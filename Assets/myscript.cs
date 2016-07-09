@@ -7,6 +7,7 @@ public class myscript : MonoBehaviour {
 	void Start () {
 		print ("blah blah");
 		print ("something changed");
+		print ("added something else");
 	}
 	
 	// Update is called once per frame
